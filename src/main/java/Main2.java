@@ -91,13 +91,6 @@ public class Main2 {
 
 
 
-
-
-
-
-
-
-
 //        String text = "In the tweet, which was later deleted, the president thanked \"the great people of The Villages\" - referring to the retirement community north-west of Orlando where the rally took place. \"The Radical Left Do Nothing Democrats will Fall in the Fall. Corrupt Joe is shot. See you soon!!!,\" he wrote.";
 //        //delim text na slova - schitaem kolicestvo slov//
 //
